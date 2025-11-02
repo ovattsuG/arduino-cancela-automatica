@@ -66,6 +66,11 @@ O projeto é ideal para estudos de **automação, eletrônica básica e programa
 
 ---
 
+## 🎥 Demonstração
+*[Demonstração do Projeto Cancela Automatica com Arduino UNO](https://youtu.be/vScZ3vp7K1s)*
+
+---
+
 ## 📚 Conceitos Envolvidos
 
 - Medição de distância com **HC-SR04**  
